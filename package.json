@@ -28,7 +28,7 @@
     "cross-fetch": "^3.1.2",
     "jsome": "^2.5.0",
     "lodash": "^4.17.20",
-    "typescript": "^4.2.3",
+    "typescript": "^4.6.3",
     "yaml": "^1.10.0",
     "yesno": "^0.3.1"
   },
