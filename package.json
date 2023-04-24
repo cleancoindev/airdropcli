@@ -22,14 +22,14 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@anchor-protocol/anchor.js": "^0.1.18",
+    "@anchor-protocol/anchor.js": "^1.0.0",
     "@terra-money/terra.js": "^1.6.0",
     "commander": "^6.2.0",
     "cross-fetch": "^3.1.2",
     "jsome": "^2.5.0",
     "lodash": "^4.17.20",
     "typescript": "^4.2.3",
-    "yaml": "^1.10.0",
+    "yaml": "^2.2.2",
     "yesno": "^0.3.1"
   },
   "devDependencies": {
